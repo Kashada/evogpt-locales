@@ -53,7 +53,7 @@ export default {
   message: {
     renameConvHint: 'Please enter a conversation title: ',
     renameSuccess: 'Conversation has been renamed.',
-    deleteConvConfirm: 'Are you certain you want to delete the current conversation? This action cannot be undone!',
+    deleteConvConfirm: 'Are you sure you want to delete this conversation? This action cannot be undone!',
     deleteMsgConfirm: 'Delete this question and its answers?',
     notice: 'Notice',
     warning: 'Warning',

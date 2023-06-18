@@ -53,7 +53,7 @@ export default {
   message: {
     renameConvHint: 'Por favor, ingresa un título de conversación:',
     renameSuccess: 'La conversación ha sido renombrada.',
-    deleteConvConfirm: '¿Estás seguro de que deseas eliminar la conversación actual? ¡Esta acción no se puede deshacer!',
+    deleteConvConfirm: '¿Estás seguro/a de que deseas eliminar esta conversación? ¡Esta acción no se puede deshacer!',
     deleteMsgConfirm: '¿Eliminar esta pregunta y sus respuestas?',
     notice: 'Aviso',
     warning: 'Advertencia',

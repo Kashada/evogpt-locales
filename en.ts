@@ -33,6 +33,7 @@ export default {
   },
   action: {
     more: 'More actions',
+    rename: 'Rename',
     renameConv: 'Rename conversation',
     refresh: 'Refresh conversation',
     regenerate: 'Regenerate',

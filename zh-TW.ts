@@ -33,6 +33,7 @@ export default {
   },
   action: {
     more: '更多操作',
+    rename: '重命名',
     renameConv: '重命名對話',
     refresh: '刷新對話',
     regenerate: '重新生成',

@@ -33,6 +33,7 @@ export default {
   },
   action: {
     more: 'Más acciones',
+    rename: 'Renombrar',
     renameConv: 'Renombrar conversación',
     refresh: 'Actualizar conversación',
     regenerate: 'Regenerar',
